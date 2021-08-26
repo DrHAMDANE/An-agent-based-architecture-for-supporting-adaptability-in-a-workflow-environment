@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path=""/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="F:/jade/lib/http.jar"/>
+	<classpathentry kind="lib" path="F:/jade/lib/iiop.jar"/>
+	<classpathentry kind="lib" path="F:/jade/lib/jade.jar" sourcepath="F:/jade/lib/jadeTools.jar"/>
+	<classpathentry kind="lib" path="F:/jade/lib/jadeTools.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
